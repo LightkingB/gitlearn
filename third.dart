@@ -1,1 +1,8 @@
-pass!!!
+
+def main() {
+
+pass
+
+
+}
+
